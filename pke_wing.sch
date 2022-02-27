@@ -1,0 +1,93 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Device:LED D1
+U 1 1 6193354C
+P 4300 2600
+F 0 "D1" H 4293 2817 50  0000 C CNN
+F 1 "LED" H 4293 2726 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z1.6mm" H 4300 2600 50  0001 C CNN
+F 3 "~" H 4300 2600 50  0001 C CNN
+	1    4300 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED D2
+U 1 1 61933F4F
+P 4300 2950
+F 0 "D2" H 4293 3167 50  0000 C CNN
+F 1 "LED" H 4293 3076 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z1.6mm" H 4300 2950 50  0001 C CNN
+F 3 "~" H 4300 2950 50  0001 C CNN
+	1    4300 2950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED D3
+U 1 1 619349C9
+P 4300 3300
+F 0 "D3" H 4293 3517 50  0000 C CNN
+F 1 "LED" H 4293 3426 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z1.6mm" H 4300 3300 50  0001 C CNN
+F 3 "~" H 4300 3300 50  0001 C CNN
+	1    4300 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED D4
+U 1 1 61934FA9
+P 4300 3650
+F 0 "D4" H 4293 3867 50  0000 C CNN
+F 1 "LED" H 4293 3776 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z1.6mm" H 4300 3650 50  0001 C CNN
+F 3 "~" H 4300 3650 50  0001 C CNN
+	1    4300 3650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED D5
+U 1 1 61935C9A
+P 4300 4000
+F 0 "D5" H 4293 4217 50  0000 C CNN
+F 1 "LED" H 4293 4126 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z1.6mm" H 4300 4000 50  0001 C CNN
+F 3 "~" H 4300 4000 50  0001 C CNN
+	1    4300 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED D6
+U 1 1 6193654D
+P 4300 4350
+F 0 "D6" H 4293 4567 50  0000 C CNN
+F 1 "LED" H 4293 4476 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z1.6mm" H 4300 4350 50  0001 C CNN
+F 3 "~" H 4300 4350 50  0001 C CNN
+	1    4300 4350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED D7
+U 1 1 61936BB8
+P 4300 4700
+F 0 "D7" H 4293 4917 50  0000 C CNN
+F 1 "LED" H 4293 4826 50  0000 C CNN
+F 2 "LED_THT:LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z1.6mm" H 4300 4700 50  0001 C CNN
+F 3 "~" H 4300 4700 50  0001 C CNN
+	1    4300 4700
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC
